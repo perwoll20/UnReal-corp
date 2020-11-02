@@ -1,0 +1,15 @@
+C:\Users\adamk\source\repos\UnReal\bin\Debug\UnReal.exe.config
+C:\Users\adamk\source\repos\UnReal\bin\Debug\UnReal.exe
+C:\Users\adamk\source\repos\UnReal\bin\Debug\UnReal.pdb
+C:\Users\adamk\source\repos\UnReal\bin\Debug\Interop.WMPLib.dll
+C:\Users\adamk\source\repos\UnReal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\adamk\source\repos\UnReal\obj\Debug\UnReal.csprojAssemblyReference.cache
+C:\Users\adamk\source\repos\UnReal\obj\Debug\Interop.WMPLib.dll
+C:\Users\adamk\source\repos\UnReal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\adamk\source\repos\UnReal\obj\Debug\UnReal.csproj.ResolveComReference.cache
+C:\Users\adamk\source\repos\UnReal\obj\Debug\UnReal.Properties.Resources.resources
+C:\Users\adamk\source\repos\UnReal\obj\Debug\UnReal.csproj.GenerateResource.cache
+C:\Users\adamk\source\repos\UnReal\obj\Debug\UnReal.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\UnReal\obj\Debug\UnReal.exe
+C:\Users\adamk\source\repos\UnReal\obj\Debug\UnReal.pdb
+C:\Users\adamk\source\repos\UnReal\obj\Debug\UnReal.UnReal.resources
